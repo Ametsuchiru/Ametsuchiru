@@ -1,0 +1,3 @@
+- 👋 Ametsuchiru, desu.
+- 🌱 Currently strengthening on Java and Python! Looking to learn enterprise-level APIs and even Rust or Golang.
+- 📫 Reach me on => `rtzer@protonmail.com`
